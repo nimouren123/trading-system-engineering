@@ -34,7 +34,7 @@ Two more documents:
 v6/
 ├── main.py           entry point, mode selection
 ├── engine.py         main loop: fetch → decide → execute
-├── exchange.py       OKX REST client, retries, failure counters
+├── exchange.py       REST client, retries, failure counters
 ├── order_manager.py  idempotency, order state machine, fill polling
 ├── position.py       position lifecycle, PnL accounting
 ├── risk.py           drawdown brake, cooldown, emergency stop
