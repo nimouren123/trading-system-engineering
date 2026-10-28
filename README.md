@@ -1,6 +1,6 @@
 # Trading System Engineering
 
-Notes from building and running an automated ETH/USDT perpetual futures system on real capital since June 2026.
+Notes from building and running an automated trading system on real capital since June 2026.
 
 This repository is **not** about the strategy. It's about the part that decides whether you lose money for reasons you didn't intend: keeping a stateful system correct while it is exposed to a live exchange, process crashes, network failures, and your own past fixes.
 
